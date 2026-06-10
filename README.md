@@ -30,4 +30,4 @@ gcc energy_system.c -o energy_system -lm
 ## YouTube Video Link
 Here is the link to our project presentation video:
 [For Energy reports]
-(https://youtu.be/ChDPhaqDP8U?si=uaxoCEVCSY4eKivL)
+(https://youtu.be/CBUzFU-5JPQ)
